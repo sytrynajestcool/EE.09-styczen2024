@@ -1,0 +1,55 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: crimson;
+}
+
+header {
+    color: #ffffff;
+    text-align: center;
+    height: 370px;
+}
+
+.mecz {
+    color: #ffffff;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    float: left;
+    margin: 15px;
+}
+
+.mecz:hover {
+    border-color: #ffffff;
+}
+
+main {
+    background-color: whitesmoke;
+    height: 50px;
+    clear: both;
+}
+
+.left {
+    background-color: whitesmoke;
+    width: 70%;
+    height: 230px;
+    float: left;
+}
+
+.right {
+    background-color: whitesmoke;
+    width: 30%;
+    height: 230px;
+    float: left;
+}
+
+h2 {
+    text-align: center;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+}
+
+
